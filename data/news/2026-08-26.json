@@ -1,0 +1,32 @@
+[
+  {
+    "title": "OpenAI 首款自研推理芯片 Jalapeño 亮相，能效与延迟跑赢英伟达",
+    "url": "https://36kr.com/p/3955555203447945",
+    "summary": "OpenAI 公布与博通合作的首款自研推理芯片 Jalapeño 测试结果：每瓦 AI 工作量达英伟达 GB200/GB300 的 1.5 至 1.9 倍，端到端延迟仅为对手的 28% 至 59%，运行 DeepSeek R1 时每瓦吞吐量是 GB300 的 1.7 倍。该芯片专为大语言模型推理设计，后续还将推出第二代、第三代。",
+    "source": "36氪"
+  },
+  {
+    "title": "曝 OpenAI 已完成预训练 Bel 模型：超 10T 参数，冲击通用人工智能",
+    "url": "http://m.toutiao.com/group/7678109908692173321/",
+    "summary": "8 月 26 日，消息源 @synthwavedd 在 X 平台爆料称 OpenAI 已完成下一代模型预训练，内部代号 Bel，是 Doug 模型的直接继任者，总参数量超过 10T。消息称 OpenAI 希望将其打造为 GPT-6 之后的基座模型，甚至冲击 AGI；若属实，这将是 GPT-4o 之后首次成功的大规模前沿预训练。",
+    "source": "IT之家"
+  },
+  {
+    "title": "Ilya Sutskever 新模型要来了？投资人预告「今年最重要的发布」",
+    "url": "https://tech.ifeng.com/c/8vtchT4JJyN",
+    "summary": "a16z 合伙人 Martin Casado 突然发文预告：「刚刚获得了一个新模型的访问权限，这将是今年最重要的模型发布，甚至可以去掉『之一』。」虽然未透露模型名称，但外界普遍猜测是 Ilya Sutskever 所创公司 SSI（安全超级智能）的首款模型。",
+    "source": "凤凰网科技"
+  },
+  {
+    "title": "神秘模型 ox-alpha 编程测试超越 GPT-5.6 和 Claude，技术特征直指智谱",
+    "url": "http://m.toutiao.com/group/7676416367028994595/",
+    "summary": "独立技术研究人员测试显示，神秘模型 ox-alpha 在部分编程基准中表现优于 GPT-5.6 Sol 和 Claude：在 DeepSWE 部分子任务通过率约 80%，高于 Claude Fable 5 的 65%、GPT-5.6 Sol 的 52%，并保持 51,469 项回归测试全部通过。其技术特征直指智谱尚未发布的新模型，但样本量较小，仍需更多独立测试验证。",
+    "source": "华尔街见闻"
+  },
+  {
+    "title": "基于下一代 Qwen4 架构，阿里千问今晚开源 Qwen3.8-Flash-Next",
+    "url": "http://m.toutiao.com/group/7677983149330022938/",
+    "summary": "魔搭社区（ModelScope）显示，阿里千问将于北京时间 8 月 26 日 23:00 开源 Qwen3.8-Flash-Next 及 FP8 版本。该模型是基于下一代 Qwen4 架构构建的多模态 MoE 模型，总参数 1250 亿、每 token 仅激活 60 亿，兼顾性能与推理成本。",
+    "source": "IT之家"
+  }
+]
