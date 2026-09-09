@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <title>知禾工作台</title>
+  <meta name="description" content="个人工作台：专注、单词、课表、记账、复盘、电影">
+  <meta name="theme-color" content="#FAF5EF">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="知禾">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="bgArt" aria-hidden="true">
+    <div class="bg-img i-home"></div>
+    <div class="bg-img i-learn"></div>
+    <div class="bg-img i-life"></div>
+    <div class="bg-img i-media"></div>
+    <div class="bg-img i-me"></div>
+    <div class="bg-img i-focus"></div>
+    <div class="bg-motifs">
+      <svg class="mt mt-star" style="left:9%;top:7%" width="20" height="20" viewBox="0 0 24 24" fill="#E7A9BE" opacity=".55"><path d="M12 1.5C13 7.5 16.5 11 22.5 12 16.5 13 13 16.5 12 22.5 11 16.5 7.5 13 1.5 12 7.5 11 11 7.5 12 1.5Z"/></svg>
+      <svg class="mt mt-star s2" style="right:13%;top:15%" width="13" height="13" viewBox="0 0 24 24" fill="#A9C8E8" opacity=".5"><path d="M12 1.5C13 7.5 16.5 11 22.5 12 16.5 13 13 16.5 12 22.5 11 16.5 7.5 13 1.5 12 7.5 11 11 7.5 12 1.5Z"/></svg>
+      <svg class="mt mt-star s3" style="left:19%;bottom:24%" width="15" height="15" viewBox="0 0 24 24" fill="#A9D4BC" opacity=".5"><path d="M12 1.5C13 7.5 16.5 11 22.5 12 16.5 13 13 16.5 12 22.5 11 16.5 7.5 13 1.5 12 7.5 11 11 7.5 12 1.5Z"/></svg>
+      <svg class="mt" style="right:7%;top:44%" width="16" height="16" viewBox="0 0 24 24" fill="#E7A9BE" opacity=".42"><path d="M12 20.5C7.6 16.6 3.5 13.4 3.5 9.7 3.5 6.9 5.7 4.8 8.3 4.8c1.5 0 2.9.7 3.7 1.9.8-1.2 2.2-1.9 3.7-1.9 2.6 0 4.8 2.1 4.8 4.9 0 3.7-4.1 6.9-8.5 10.8Z"/></svg>
+      <svg class="mt" style="left:5%;top:58%" width="18" height="18" viewBox="0 0 24 24" fill="#A9C8E8" opacity=".38"><circle cx="9" cy="9" r="4.4"/><circle cx="15" cy="9" r="4.4"/><circle cx="9" cy="15" r="4.4"/><circle cx="15" cy="15" r="4.4"/></svg>
+      <svg class="mt" style="right:17%;bottom:13%" width="20" height="20" viewBox="0 0 24 24" fill="#EBC98A" opacity=".42"><circle cx="9" cy="9" r="4.4"/><circle cx="15" cy="9" r="4.4"/><circle cx="9" cy="15" r="4.4"/><circle cx="15" cy="15" r="4.4"/></svg>
+      <svg class="mt" style="left:30%;top:3.5%" width="12" height="12" viewBox="0 0 24 24" fill="#A9D4BC" opacity=".48"><path d="M12 1.5C13 7.5 16.5 11 22.5 12 16.5 13 13 16.5 12 22.5 11 16.5 7.5 13 1.5 12 7.5 11 11 7.5 12 1.5Z"/></svg>
+      <svg class="mt" style="right:31%;bottom:31%" width="11" height="11" viewBox="0 0 24 24" fill="#E7A9BE" opacity=".4"><path d="M12 1.5C13 7.5 16.5 11 22.5 12 16.5 13 13 16.5 12 22.5 11 16.5 7.5 13 1.5 12 7.5 11 11 7.5 12 1.5Z"/></svg>
+    </div>
+  </div>
+  <div id="app">
+    <main id="view">
+      <div style="min-height:60vh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;color:#B7A4AF">
+        <div style="font-size:40px">🌿</div>
+        <div>知禾工作台加载中…</div>
+      </div>
+    </main>
+    <nav id="tabbar" class="tabbar" aria-label="主导航"></nav>
+  </div>
+  <div id="toast-root"></div>
+  <script src="js/core.js"></script>
+  <script src="js/models.js"></script>
+  <script src="js/views-home.js"></script>
+  <script src="js/views-learn.js"></script>
+  <script src="js/views-life.js"></script>
+  <script src="js/views-media.js"></script>
+  <script src="js/views-me.js"></script>
+  <script src="js/pet.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
