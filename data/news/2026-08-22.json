@@ -1,0 +1,32 @@
+[
+  {
+    "title": "OpenAI 将 GPT-5.6 Sol 模型 API 定价下调超 20%",
+    "url": "https://www.jiemian.com/article/14968215.html",
+    "summary": "当地时间 8 月 21 日，OpenAI 在开发者社区宣布未来 3 个月内将 GPT-5.6 Sol 的 API 与积分定价下调 20% 以上，输出价格从每百万 token 30 美元降至 20 美元，现已通过 API 提供并逐步向符合条件的 ChatGPT Work 和 Codex 套餐开放。",
+    "source": "界面新闻"
+  },
+  {
+    "title": "DeepSeek 首款多模态视觉模型 V4-Flash-Vision-Exp 上线",
+    "url": "https://36kr.com/p/3949138682379651",
+    "summary": "8 月 21 日，DeepSeek 上线实验性视觉模型 DeepSeek-V4-Flash-Vision-Exp，补齐了此前仅支持文本的短板。该模型拥有 1M 上下文、最大输出 384K，一张图片最多占 384 个 token，计费价格与 V4-Flash 完全一致。",
+    "source": "36氪"
+  },
+  {
+    "title": "OpenAI 以 Apache-2.0 协议全面开源 Codex Harness",
+    "url": "https://m.ithome.com/html/992656.htm",
+    "summary": "OpenAI 将驱动 Codex App、CLI 与 IDE 扩展运行的底层执行框架 Harness 开源至 GitHub 的 openai/codex 仓库，支持免费商用、二次开发与私有化部署，截至 8 月 21 日仓库 Star 已超 10.7 万，被视为生产级 AI Agent 底座的重大开放。",
+    "source": "IT之家"
+  },
+  {
+    "title": "Anthropic 聘请谷歌 TPU 项目创始人，筹备自研芯片",
+    "url": "https://m.weibo.cn/detail/5334658747204883",
+    "summary": "8 月 22 日消息，Anthropic 已聘请谷歌定制芯片项目创始人 Amir Salek 加入其算力团队，他曾负责谷歌 TPU 业务直至 2022 年并参与前七代 TPU 的推出，此举被视为这家 AI 实验室进军自研半导体领域的信号。",
+    "source": "财经网科技"
+  },
+  {
+    "title": "OpenAI 被曝测试 GPT Image 2.5 图像模型，GPT-Image-2 支持透明背景",
+    "url": "http://m.toutiao.com/group/7676635568406692396/",
+    "summary": "8 月 21 日，多名海外用户发现名为 luna-lisa-alpha 的神秘模型现身 LMArena 测试平台，重点提升人物一致性、图像真实感与文字生成能力，疑似 GPT Image 2.5 早期版本；同日 GPT-Image-2 API 预览版上线透明背景 PNG 生成功能。",
+    "source": "今日头条"
+  }
+]
