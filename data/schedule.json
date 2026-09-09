@@ -1,0 +1,32 @@
+{
+  "note": "2026-2027学年第1学期 · 北区 · 每周循环；标有单/双周或周次的课，请按学期周数对照",
+  "weekdays": {
+    "1": [
+      { "id": "mon1", "time": "1-2节 · 1-16周", "name": "大学英语拓展课程1", "teacher": "燕清", "location": "A310" },
+      { "id": "mon2", "time": "5-6节 · 1-6周", "name": "演讲与口才", "teacher": "徐晶晶", "location": "A504" },
+      { "id": "mon3", "time": "5-6节 · 7-16周", "name": "演讲与口才", "teacher": "徐晶晶", "location": "D405" },
+      { "id": "mon4", "time": "7-8节 · 1-8周", "name": "写作专项技能实训", "teacher": "徐晶晶", "location": "A408" },
+      { "id": "mon5", "time": "7-8节 · 9-15周", "name": "写作专项技能实训", "teacher": "徐晶晶", "location": "B201" }
+    ],
+    "2": [
+      { "id": "tue1", "time": "1-2节 · 1-16周", "name": "美学原理及其应用", "teacher": "崔杨柳", "location": "D204" },
+      { "id": "tue2", "time": "7-8节 · 1-16周", "name": "现代汉语Ⅱ", "teacher": "杜博", "location": "B402" }
+    ],
+    "3": [
+      { "id": "wed1", "time": "1-2节 · 单周", "name": "大学英语拓展课程1", "teacher": "燕清", "location": "A306" },
+      { "id": "wed2", "time": "3-4节 · 1-16周", "name": "马克思主义基本原理", "teacher": "张玉", "location": "A201" },
+      { "id": "wed3", "time": "7-8节 · 1-16周", "name": "大学体育3-篮球", "teacher": "陆文生", "location": "待定" }
+    ],
+    "4": [
+      { "id": "thu1", "time": "1-2节 · 1-16周", "name": "中国现当代文学Ⅰ", "teacher": "秦瑞", "location": "B101" },
+      { "id": "thu2", "time": "3-4节 · 双周", "name": "马克思主义基本原理", "teacher": "张玉", "location": "A202" },
+      { "id": "thu3", "time": "7-8节 · 单周", "name": "现代汉语Ⅱ", "teacher": "杜博", "location": "B504" }
+    ],
+    "5": [
+      { "id": "fri1", "time": "1-4节 · 1-16周", "name": "中国古代文学Ⅱ", "teacher": "刘倩", "location": "A205" },
+      { "id": "fri2", "time": "5-6节 · 双周", "name": "中国现当代文学Ⅰ", "teacher": "秦瑞", "location": "A301" }
+    ],
+    "6": [],
+    "7": []
+  }
+}
